@@ -124,8 +124,7 @@ main strong{
 }
 
 main a{
-    color: var(--cor5); 
-    padding: 6px;
+    color: var(--cor5);   
     text-decoration: none;
 }
 
